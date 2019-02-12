@@ -228,8 +228,16 @@
     padding: 0 0.2em;
   }
   .title {
-    font-weight: bold;
-    display: inline-block;
     background-color: #99d8ff;
     padding: 0 0.2em;
+  }
+  .description {
+    background-color: #99d8ff;
+    padding: 1em;
+    text-align: center;
+  }
+  .imgSource {
+    color: #234d67;
+    align-self: center;
+  }
 </style>

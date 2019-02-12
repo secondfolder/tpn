@@ -17,4 +17,9 @@ body {
   background-color: #fbfbfb;
   margin: 0;
 }
+
+/* custom css */
+body {
+  background-color: #0e94e6;
+}
 </style>
