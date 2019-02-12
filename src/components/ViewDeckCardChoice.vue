@@ -137,4 +137,9 @@
   .horizontal > * {
     margin: 0.5em 0;
   }
+  
+  /* custom css */
+  .choice {
+    background-color: #99d8ff;
+  }
 </style>

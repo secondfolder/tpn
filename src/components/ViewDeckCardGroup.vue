@@ -221,4 +221,15 @@
       font-size: 1em;
     }
   }
+
+  /* custom css */
+  .deckInfo {
+    background-color: #99d8ff;
+    padding: 0 0.2em;
+  }
+  .title {
+    font-weight: bold;
+    display: inline-block;
+    background-color: #99d8ff;
+    padding: 0 0.2em;
 </style>
